@@ -3,7 +3,7 @@ ESA LTC 2025 Materials
 **********************
 
 
-This package contains the jupyter notebooks for the "Crop yield forecasting" exercise held at the `ESA Land Training Course 2025 <https://landtraining2025.esa.int/>`_.
+This package contains the jupyter notebook for the "Crop yield forecasting" exercise held at the `ESA Land Training Course 2025 <https://landtraining2025.esa.int/>`_.
 
 This package will be run on the Copernicus Dataspace Ecosystem (CDSE) JupyterLab.
 
