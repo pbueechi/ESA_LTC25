@@ -34,7 +34,7 @@ Local installation
 ------------------
 To run the notebooks locally, you need to clone the repository first (from the fork belonging to USER) and save the data folder downloaded above to the same directory:
 
-`git clone https://github.com/pbueechi/ESA_LTC2025.git`
+`git clone https://github.com/pbueechi/ESA_LTC25.git`
 
 and install the requirements using
 pip install -r requirements.txt
