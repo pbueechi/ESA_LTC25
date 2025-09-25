@@ -28,7 +28,7 @@ If you are not familiar with Jupyter Notebooks, there are numerous tutorials ava
 
 Other
 -----
-Data used in the tutorials needs to be downloaded from (folder /data) https://cloud.geo.tuwien.ac.at/s/YCZsYfqcLopKz33
+Data used in the tutorials needs to be downloaded. For link, please contact.
 
 Local installation
 ------------------
