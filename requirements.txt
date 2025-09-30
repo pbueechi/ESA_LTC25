@@ -13,3 +13,6 @@ seaborn==0.13.2
 shap==0.48.0
 xarray==2025.6.1
 xgboost==3.0.5
+jupyterlab>=4.0
+ipykernel>=6.29
+notebook>=7.0
